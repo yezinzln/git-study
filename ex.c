@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sum(int v1, int v2);
+int sum(int v1, int v2); //두 정수의 합을 구하는 함수 
 
 int main(int argc, char* argv[]){
 	int result;
